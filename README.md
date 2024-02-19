@@ -1,4 +1,13 @@
 # RotaMaker-4-RELEASE
+!!!DISCLAIMER!!!
+This project is in development/prorotype stage.
+
+## INSTALLATION
+
+1. Download the repo zip.
+2. Inside the "Release" folder there is an "install" file that needs to be ran first before using the program. This install all the prerequisites needed for the program to run, such as Access Database Engine 2016.
+3. After the terminal window has closed, you can then run the "RotaMaker 4.exe" file to start the application.
+4. You can create a shortcut and move it somewhere else.
 
 ## DESCRIPTION
 
