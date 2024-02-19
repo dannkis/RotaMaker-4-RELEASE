@@ -75,7 +75,7 @@ The requirements for adding a new STAFF MEMBER are that all the boxes need to be
 
 This is the same procedure as EDITING and DELETING a USER, so for more detailed information, check above.
 
-###ROTA
+### ROTA
 
 Here you can SEND, UPDATE, PRINT and DELETE data from the scheduling table. 
 
